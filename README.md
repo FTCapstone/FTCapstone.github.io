@@ -77,22 +77,24 @@
                 </div>
             </div>
             <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-                <meta itemprop="headline" content="2021-Fall-DSC180A02-Capstone: Text Mining and NLP">
+                <meta itemprop="headline" content="Seeking Alpha in the Sea of Data">
                 <meta itemprop="description" content="Class Time: Wednesdays, 1 to 1:50 PM Pacific Time. Room: https://ucsd.zoom.us/j/91491702947.">
                 <meta itemprop="datePublished" content="September 29, 2021">
                 <div class="page__inner-wrap">
                     <header>
-                        <h1 class="page__title" itemprop="headline">2021-Fall-DSC180A02-Capstone: Text Mining and NLP</h1>
+                        <h1 class="page__title" itemprop="headline">Seeking Alpha in the Sea of Data</h1>
                         <p>
-                            Undergraduate Class, <i>HDSI, UCSD</i>
-                            , 2021
+                            Data science capstone domain of language models, <i>DSC 180A B08</i>, 2024-25
+                        </p>
+                        <p>
+                            Developed by Franklin Templeton Team
                         </p>
                     </header>
                     <section class="page__content" itemprop="text">
                         <p>
                             <strong>Class Time</strong>
-                            : Wednesdays, 1 to 1:50 PM Pacific Time. <strong>Room</strong>
-                            : <a href="https://ucsd.zoom.us/j/91491702947">https://ucsd.zoom.us/j/91491702947</a>
+                            : Monday, 12 to 1:00 PM Pacific Time. <strong>Room</strong>
+                            : <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ3NzFhZGMtYzY5Zi00MmYzLWE4NDctNTc5ZDYxZDlhNzVk%40thread.v2/0?context=%7b%22Tid%22%3a%22b9b831a9-6c10-40bf-86f3-489ed83c81e8%22%2c%22Oid%22%3a%22e8db23f3-1909-4d69-8e5a-d836ee645a42%22%7d">Microsoft Team Meeting</a>
                             .
                         </p>
                         <h1 id="overview">Overview</h1>
