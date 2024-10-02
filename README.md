@@ -97,10 +97,10 @@
                             : <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ3NzFhZGMtYzY5Zi00MmYzLWE4NDctNTc5ZDYxZDlhNzVk%40thread.v2/0?context=%7b%22Tid%22%3a%22b9b831a9-6c10-40bf-86f3-489ed83c81e8%22%2c%22Oid%22%3a%22e8db23f3-1909-4d69-8e5a-d836ee645a42%22%7d">Microsoft Team Meeting</a>
                             .
                         </p>
-                        <h1 id="overview">Overview</h1>
-                        <p>This capstone section mainly focuses on text mining and natural language processing. We will explore cutting-edge research papers in these areas together and try to replicate some experiments for a deeper, better understanding.</p>
+                        <h1 id="overview">Introduction</h1>
+                        <p>TBD</p>
                         <p>We will mostly have discussions in a Q &amp;A form, instead of traditional lectures. Due to the COVID-19, the discussions will be online over Zoom.</p>
-                        <h1 id="papers-to-read">Papers to Read</h1>
+                        <h1 id="papers-to-read">Result replication (introduction to topic)</h1>
                         <ul>
                             <li>
                                 <p>
