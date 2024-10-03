@@ -101,6 +101,12 @@
                         <p>TBD</p>
                         <p>We will mostly have discussions in a Q &amp;A form, instead of traditional lectures. Due to the COVID-19, the discussions will be online over Zoom.</p>
                         <h1 id="papers-to-read">Result replication (introduction to topic)</h1>
+                        <p>
+                            We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.
+                        </p>
+                        <ol>
+                            <li>We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.</li>
+                        </ol>
                         <ul>
                             <li>
                                 <p>
@@ -130,11 +136,7 @@
                             <strong>Tips</strong>
                         </p>
                         <ol>
-                            <li>These three papers are highly related. Please read them one by one.</li>
-                            <li>The Github README files also provide useful information.</li>
-                            <li>
-                                PDFs of these papers can be found online or <a href="https://www.dropbox.com/sh/42hsaq4zsod7j8w/AACv2e2FJPjIDOVvYP22GmrVa?dl=0">here</a>
-                            </li>
+                            <li>We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.</li>
                         </ol>
                         <h1 id="schedule">Schedule</h1>
                         <table>
