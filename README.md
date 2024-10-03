@@ -115,8 +115,13 @@
                             <li>
                                 <p>
                                     AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
-                                    Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]
-                                    
+                                    Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]  
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
+                                    Shuo Sun, Molei Qin, wentao zhang, Haochong Xia, Chuqiao Zong etc 2023. [<a href="https://openreview.net/pdf?id=l7Ggnzaws5">paper</a>] [<a href="https://github.com/trademaster-ntu/trademaster">code</a>] 
                                 </p>
                             </li>
                             <li>
