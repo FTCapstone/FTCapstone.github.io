@@ -104,9 +104,8 @@
                         <ul>
                             <li>
                                 <p>
-                                    Mining Quality Phrases from Massive Text Corpora <br/>
-                                    Jialu Liu*, Jingbo Shang*, Chi Wang, Xiang Ren and Jiawei Han. <strong>SIGMOD</strong>
-                                    2015. [<a href="https://github.com/shangjingbo1226/SegPhrase">code</a>
+                                    Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series <br/>
+                                    Vijay Ekambaram, Arindam Jati, Pankaj Dayama etc 2024. [<a href="https://arxiv.org/pdf/2401.03955">code</a>
                                     ]
                                 </p>
                             </li>
