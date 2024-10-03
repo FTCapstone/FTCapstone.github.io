@@ -105,8 +105,7 @@
                             <li>
                                 <p>
                                     Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series <br/>
-                                    Vijay Ekambaram, Arindam Jati, Pankaj Dayama etc 2024. [<a href="https://arxiv.org/pdf/2401.03955">code</a>
-                                    ]
+                                    Vijay Ekambaram, Arindam Jati, Pankaj Dayama etc 2024. [<a href="https://arxiv.org/pdf/2401.03955">paper</a>] [<a href="https://github.com/ibm-granite/granite-tsfm">code</a>]
                                 </p>
                             </li>
                             <li>
