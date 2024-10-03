@@ -16,12 +16,12 @@
             {
                 "@context": "http://schema.org",
                 "@type": "Person",
-                "name": "Jingbo Shang",
-                "url": "https://shangjingbo1226.github.io",
+                "name": "",
+                "url": "https://ftcapstone.github.io",
                 "sameAs": null
             }</script>
         <!-- end SEO -->
-        <link href="https://shangjingbo1226.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Jingbo Shang Feed">
+        <link href="" type="application/atom+xml" rel="alternate" title="">
         <!-- http://t.co/dKP3o1e -->
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
@@ -216,34 +216,30 @@
                         <h3 id="week2">Week 2: Introduction &amp;Motivation</h3>
                         <ol>
                             <li>Why do we want to study phrase mining? What’s the advantage of phrases over unigrams?</li>
-                            <li>What’s the major problem when someone is going to apply SegPhrase to a new corpus? Is there any human effort?</li>
-                            <li>What’s the motivation of AutoPhrase? Compared with SegPhrase, which parts do you believe are novel?</li>
-                            <li>What’s the motivation of UCPhrase? Compared with AutoPhrase and SegPhrase, what are the major invotations in UCPhrase?</li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week3">Week 3: Datasets and Experiment Design</h3>
                         <ol>
-                            <li>How many datasets are used in the papers? How many domains and languages are covered?</li>
-                            <li>Why do we want to use such a diverse set of datasets? How this is related to the claims in the papers?</li>
-                            <li>Why do we want to evaluate the results following the pooling strategy? Think about how much human effort is required, if we are not using pooling.</li>
-                            <li>Why the UCPhrase has some different evaluation settings than AutoPhrase and SegPhrase?</li>
+                            <li>How </li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week4">Week 4: Experimental Results - Analysis</h3>
                         <ol>
-                            <li>Please outline the claims in these three papers.</li>
-                            <li>How can we understand each table and figure? What are the takeaways? One or two sentences per table/figure should be enough.</li>
-                            <li>For each claim, where are the experimental results supporting it?</li>
+                            <li>Please </li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week5">Week 5: Experimental Results - Replication</h3>
                         <ol>
                             <li>
-                                Carefully check the README file in the AutoPhrase repo. What is the relation between <code class="language-plaintext highlighter-rouge">autophrase.sh</code>
-                                and <code class="language-plaintext highlighter-rouge">phrasal_segmentation.sh</code>
-                                ?
+                                
                             </li>
                             <li>
-                                Try to run AutoPhrase using the <code class="language-plaintext highlighter-rouge">DBLP.5k.txt</code>
-                                and <code class="language-plaintext highlighter-rouge">DBLP.txt</code>
-                                datasets as the input corpus. It should be runnable on your laptop. Let me know if you encounter any issue.
+                                
                             </li>
                             <li>
                                 Please eyeball the results from the two runs and try to compare them from the following aspects:
@@ -256,28 +252,28 @@
                         </ol>
                         <h3 id="week6">Week 6: Case Studies</h3>
                         <ol>
-                            <li>Why do we need case studies in addition to the quantitative results?</li>
-                            <li>How case studies further the claims in the papers?</li>
-                            <li>Do you have any interesting findings from either the case studies presented in the papers or the results you got from Week 5?</li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week7">Week 7: Application Brainstorming</h3>
                         <ol>
-                            <li>What kind of applications do you think could be benefited from phrase mining? Why?</li>
-                            <li>Try to think broadly for more domains/languages.</li>
-                            <li>Based on your proposed applications, can we apply SegPhrase/AutoPhrase directly?</li>
-                            <li>Do you think there is some necessary adaption? If yes, how? If no, why?</li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week8">Week 8: Possible Extension</h3>
                         <ol>
-                            <li>What are the drawbacks of these three papers? Do you see any limitations?</li>
-                            <li>Can we do better in order to address these limitations?</li>
+                            <li></li>
+                            <li></li>
                         </ol>
                         <h3 id="week9">Week 9: Report Writing Discussion</h3>
                         <ol>
-                            <li>Do you have any questions about the final report writing?</li>
-                            <li>How to prepare informative Figures and Tables?</li>
-                            <li>How to properly cite previous work?</li>
-                            <li>How to make the proposal look more promising?</li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li>?</li>
                         </ol>
                         <h3 id="week10">Week 10: Elevator Pitch</h3>
                         <p>We will have a timed rehearsal for the evevator pitch.</p>
