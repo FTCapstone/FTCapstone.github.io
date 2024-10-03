@@ -102,11 +102,9 @@
                         <p>We will mostly have discussions in a Q &amp;A form, instead of traditional lectures. Due to the COVID-19, the discussions will be online over Zoom.</p>
                         <h1 id="papers-to-read">Result replication (introduction to topic)</h1>
                         <p>
-                            We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.
+                            We will delve into this area via the above papers, and replicate results in preparation for trading competition game.
                         </p>
-                        <ol>
-                            <li>We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.</li>
-                        </ol>
+                        
                         <ul>
                             <li>
                                 <p>
@@ -116,28 +114,26 @@
                             </li>
                             <li>
                                 <p>
-                                    Automated Phrase Mining from Massive Text Corpora <br/>
-                                    Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss and Jiawei Han. <strong>TKDE</strong>
-                                    2018. [<a href="https://github.com/shangjingbo1226/AutoPhrase">code</a>
-                                    ]
+                                    AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
+                                    Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]
+                                    
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    UCPhrase: Unsupervised Context-aware Quality Phrase Tagging <br/>
-                                    Xiaotao Gu*, Zihan Wang*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. <strong>KDD 2021</strong>
-                                    . [<a href="https://arxiv.org/abs/2105.14078">arXiv:2105.14078</a>
-                                    ] [<a href="https://github.com/xgeric/UCPhrase-exp">code</a>
-                                    ]
+                                    Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
+                                    Jingyi Gu, Wenlu Du, A M Muntasir Rahman, Guiling Wang 2023.
+                                    [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Chronos: Learning the Language of Time Serie <br/>
+                                    Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, Xiyuan Zhang etc 2024.
+                                    [<a href="https://arxiv.org/pdf/2403.07815v2">paper</a>] [<a href="https://github.com/amazon-science/chronos-forecasting">code</a>]
                                 </p>
                             </li>
                         </ul>
-                        <p>
-                            <strong>Tips</strong>
-                        </p>
-                        <ol>
-                            <li>We will delve into this area via the above papers, and replicate results in preparation for analysis of the travel mode choice data.</li>
-                        </ol>
                         <h1 id="schedule">Schedule</h1>
                         <table>
                             <tbody>
@@ -148,68 +144,68 @@
                                 </tr>
                                 <tr>
                                     <td>1</td>
-                                    <td>09/29</td>
-                                    <td>General Overview (a short lecture by Jingbo Shang)</td>
+                                    <td>09/30/2024</td>
+                                    <td>General Overview (Project, logistics etc)</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td>10/06</td>
+                                    <td>10/07/2014</td>
                                     <td>
                                         <a href="#week2">Introduction &amp;Motivation</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td>10/13</td>
+                                    <td>10/14/2024</td>
                                     <td>
                                         <a href="#week3">Datasets and Experiment Design</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td>10/20</td>
+                                    <td>10/21/2024</td>
                                     <td>
                                         <a href="#week4">Experimental Results - Analysis</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td>10/27</td>
+                                    <td>10/28/2024</td>
                                     <td>
                                         <a href="#week5">Experimental Results - Replication</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td>11/03</td>
+                                    <td>11/04/2024</td>
                                     <td>
                                         <a href="#week6">Case Studies</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td>11/10</td>
+                                    <td>11/11/2024</td>
                                     <td>
                                         <a href="#week7">Application Brainstorming</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td>11/17</td>
+                                    <td>11/18/2024</td>
                                     <td>
                                         <a href="#week8">Possible Extension</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td>11/24</td>
+                                    <td>11/25/2024</td>
                                     <td>
                                         <a href="#week9">Report Writing Discussion</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td>12/01</td>
+                                    <td>12/02/2024</td>
                                     <td>
                                         <a href="#week10">Elevator Pitch</a>
                                     </td>
