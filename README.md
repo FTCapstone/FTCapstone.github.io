@@ -139,6 +139,14 @@
                                 </p>
                             </li>
                         </ul>
+                        <h1 id="papers-to-read">Section Participation</h1>
+                        <p>
+                            Participation in the weekly discussion section is mandatory. Each week, you are responsible for doing the reading/task assigned in the schedule. Come to section prepared to ask questions about and discuss the results of these tasks.
+
+Each week, turn in answers to the weekly questions to Canvas. These questions are meant to focus your work for the week and help prepare you for discussion. If you have questions about your work, please ask them in section or office hours (I will rarely comment on your submission).
+
+You are responsible for the entire weekly reading/task, even if portions are not covered in the weekly questions, as these are designed to help you in your replication. The weekly tasks are the building blocks for the project proposals/assignments due at the end of the quarter.
+                        </p>
                         <h1 id="schedule">Schedule</h1>
                         <table>
                             <tbody>
