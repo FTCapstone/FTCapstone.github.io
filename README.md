@@ -234,26 +234,6 @@ You are responsible for the entire weekly reading/task, even if portions are not
                             <li></li>
                             <li></li>
                         </ol>
-                        
-                        
-                        
-                    </section>
-                    <footer class="page__meta"></footer>
-                    <section class="page__share">
-                        <h4 class="page__share-title">Share on</h4>
-                        <a href="https://twitter.com/intent/tweet?text=https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone" class="btn btn--twitter" title="Share on Twitter">
-                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                            <span>Twitter</span>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone" class="btn btn--facebook" title="Share on Facebook">
-                            <i class="fab fa-facebook" aria-hidden="true"></i>
-                            <span>Facebook</span>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone" class="btn btn--linkedin" title="Share on LinkedIn">
-                            <i class="fab fa-linkedin" aria-hidden="true"></i>
-                            <span>LinkedIn</span>
-                        </a>
-                    </section>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
             </article>
