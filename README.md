@@ -143,9 +143,11 @@
                         <h1 id="papers-to-read">Section Participation</h1>
                         <p>
                             Participation in the weekly discussion section is mandatory. Each week, you are responsible for doing the reading/task assigned in the schedule. Come to section prepared to ask questions about and discuss the results of these tasks.
-
+                        </p>
+                        <p>
 Each week, turn in answers to the weekly questions to Canvas. These questions are meant to focus your work for the week and help prepare you for discussion. If you have questions about your work, please ask them in section or office hours (I will rarely comment on your submission).
-
+                        </p>
+                        <p>
 You are responsible for the entire weekly reading/task, even if portions are not covered in the weekly questions, as these are designed to help you in your replication. The weekly tasks are the building blocks for the project proposals/assignments due at the end of the quarter.
                         </p>
                         <h1 id="schedule">Schedule</h1>
@@ -229,10 +231,12 @@ You are responsible for the entire weekly reading/task, even if portions are not
                         <h1 id="discussion-questions">Discussion Questions</h1>
                         <h3 id="week2">Week 2: Introduction &amp;Motivation</h3>
                         <ol>
-                            <li>Why do we want to study phrase mining? What’s the advantage of phrases over unigrams?</li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>https://www.investopedia.com/simulator/ In the next quarter, We will this trading game simulator to practise your trading stragegy and check your portfolio performance. In this quarter, we will learn the basic technical components of making trading strategy and portfolio management in every week in programming.</li>
+                            <li>Time series prediction:</li>
+                            <li>Technical Indicator Exploration</li>
+                            <li>Sentiment Analysis</li>
+                            <li>Analyst Notes</li>
+                            <li>Portfolio management</li>
                         </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
@@ -256,19 +260,14 @@ You are responsible for the entire weekly reading/task, even if portions are not
                             </a>
                         </li>
                         <li>
-                            <a href="https://shangjingbo1226.github.io/feed.xml">
+                            <a href="">
                                 <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>
                                 Feed
                             </a>
                         </li>
                     </ul>
                 </div>
-                <div class="page__footer-copyright">
-                    &copy;2024 Jingbo Shang. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>
-                    &amp;<a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>
-                    , a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>
-                    .
-                </div>
+                
             </footer>
         </div>
         <script src="https://shangjingbo1226.github.io/assets/js/main.min.js"></script>
