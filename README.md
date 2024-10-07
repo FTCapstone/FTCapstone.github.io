@@ -108,6 +108,13 @@
                         <ul>
                             <li>
                                 <p>
+                                    Chronos: Learning the Language of Time Serie <br/>
+                                    Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, Xiyuan Zhang etc 2024.
+                                    [<a href="https://arxiv.org/pdf/2403.07815v2">paper</a>] [<a href="https://github.com/amazon-science/chronos-forecasting">code</a>]
+                                </p>
+                            </li>
+                            <li>
+                                <p>
                                     Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series <br/>
                                     Vijay Ekambaram, Arindam Jati, Pankaj Dayama etc 2024. [<a href="https://arxiv.org/pdf/2401.03955">paper</a>] [<a href="https://github.com/ibm-granite/granite-tsfm">code</a>]
                                 </p>
@@ -131,13 +138,7 @@
                                     [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
                                 </p>
                             </li>
-                            <li>
-                                <p>
-                                    Chronos: Learning the Language of Time Serie <br/>
-                                    Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, Xiyuan Zhang etc 2024.
-                                    [<a href="https://arxiv.org/pdf/2403.07815v2">paper</a>] [<a href="https://github.com/amazon-science/chronos-forecasting">code</a>]
-                                </p>
-                            </li>
+                            
                         </ul>
                         <h1 id="papers-to-read">Section Participation</h1>
                         <p>
@@ -171,56 +172,56 @@ You are responsible for the entire weekly reading/task, even if portions are not
                                     <td>3</td>
                                     <td>10/14/2024</td>
                                     <td>
-                                        <a href="#week3">Datasets and Experiment Design</a>
+                                        <a href="#week3">Time Series Prediction 1/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
                                     <td>10/21/2024</td>
                                     <td>
-                                        <a href="#week4">Experimental Results - Analysis</a>
+                                        <a href="#week4">Time Series Prediction 1/2</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>10/28/2024</td>
                                     <td>
-                                        <a href="#week5">Experimental Results - Replication</a>
+                                        <a href="#week5">Technical Indicator Exploration 1/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
                                     <td>11/04/2024</td>
                                     <td>
-                                        <a href="#week6">Case Studies</a>
+                                        <a href="#week6">Technical Indicator Exploration 2/2</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
                                     <td>11/11/2024</td>
                                     <td>
-                                        <a href="#week7">Application Brainstorming</a>
+                                        <a href="#week7">Sentiment Analysis</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>11/18/2024</td>
                                     <td>
-                                        <a href="#week8">Possible Extension</a>
+                                        <a href="#week8">Analyst Notes</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
                                     <td>11/25/2024</td>
                                     <td>
-                                        <a href="#week9">Report Writing Discussion</a>
+                                        <a href="#week9"> Portfolio management 1/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
                                     <td>12/02/2024</td>
                                     <td>
-                                        <a href="#week10">Elevator Pitch</a>
+                                        <a href="#week10">Portfolio management 2/2</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -233,63 +234,9 @@ You are responsible for the entire weekly reading/task, even if portions are not
                             <li></li>
                             <li></li>
                         </ol>
-                        <h3 id="week3">Week 3: Datasets and Experiment Design</h3>
-                        <ol>
-                            <li>How </li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ol>
-                        <h3 id="week4">Week 4: Experimental Results - Analysis</h3>
-                        <ol>
-                            <li>Please </li>
-                            <li></li>
-                            <li></li>
-                        </ol>
-                        <h3 id="week5">Week 5: Experimental Results - Replication</h3>
-                        <ol>
-                            <li>
-                                
-                            </li>
-                            <li>
-                                
-                            </li>
-                            <li>
-                                Please eyeball the results from the two runs and try to compare them from the following aspects:
-                                <ul>
-                                    <li>The number of high-quality phrases (e.g., &gt;0.5)</li>
-                                    <li>Unigram phrase vs. multi-word phrase</li>
-                                    <li>Top a few high-quality phrases (e.g., &gt;0.9) vs. those borderline phrases (e.g., ~0.5)</li>
-                                </ul>
-                            </li>
-                        </ol>
-                        <h3 id="week6">Week 6: Case Studies</h3>
-                        <ol>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ol>
-                        <h3 id="week7">Week 7: Application Brainstorming</h3>
-                        <ol>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ol>
-                        <h3 id="week8">Week 8: Possible Extension</h3>
-                        <ol>
-                            <li></li>
-                            <li></li>
-                        </ol>
-                        <h3 id="week9">Week 9: Report Writing Discussion</h3>
-                        <ol>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li>?</li>
-                        </ol>
-                        <h3 id="week10">Week 10: Elevator Pitch</h3>
-                        <p>We will have a timed rehearsal for the evevator pitch.</p>
+                        
+                        
+                        
                     </section>
                     <footer class="page__meta"></footer>
                     <section class="page__share">
