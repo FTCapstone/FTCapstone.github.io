@@ -238,6 +238,9 @@ You are responsible for the entire weekly reading/task, even if portions are not
                             <li>Analyst Notes</li>
                             <li>Portfolio management</li>
                         </ol>
+                        <ol> Assignment: Read and replicate paper: Chronos: Learning the Language of Time Serie
+                             Questions: 
+                        </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
             </article>
