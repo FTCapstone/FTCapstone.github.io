@@ -84,7 +84,7 @@
                     <header>
                         <h1 class="page__title" itemprop="headline">Seeking Alpha in the Sea of Data</h1>
                         <p>
-                            Data science capstone domain of language models, <i>DSC 180A B08</i>, 2024-25
+                            Data science capstone domain of language models, <i>DSC 180 B08</i>, 2024-25
                         </p>
                         <p>
                             Developed by Franklin Templeton Team
@@ -98,8 +98,9 @@
                             .
                         </p>
                         <h1 id="overview">Introduction</h1>
-                        <p>TBD</p>
-                        <p>We will mostly have discussions in a Q &amp;A form, instead of traditional lectures. Due to the COVID-19, the discussions will be online over Zoom.</p>
+                        <p> As we embark on our Seeking Alpha virtual trading game project in the upcoming quarter, our focus will be on building a strong foundation in machine learning (ML) and artificial intelligence (AI) algorithms. This quarter will be dedicated to enhancing our understanding of these critical technologies, which play a pivotal role in modern trading decision-making. By exploring various ML and AI techniques, we aim to develop the analytical skills necessary to evaluate market trends, predict price movements, and optimize our trading strategies. This preparatory phase will empower us to make informed decisions and leverage data-driven insights as we transition into hands-on trading operations.
+                        </p>
+                        <p>We will have only discussions in a Q&amp;A form, instead of traditional lectures. The discussion questions are assignments for each week. </p>
                         <h1 id="papers-to-read">Result replication (introduction to topic)</h1>
                         <p>
                             We will delve into this area via the above papers, and replicate results in preparation for trading competition game.
@@ -108,32 +109,32 @@
                         <ul>
                             <li>
                                 <p>
-                                    Chronos: Learning the Language of Time Serie <br/>
+                                    1. Chronos: Learning the Language of Time Serie <br/>
                                     Abdul Fatir Ansari, Lorenzo Stella, Caner Turkmen, Xiyuan Zhang etc 2024.
                                     [<a href="https://arxiv.org/pdf/2403.07815v2">paper</a>] [<a href="https://github.com/amazon-science/chronos-forecasting">code</a>]
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series <br/>
+                                    2. Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series <br/>
                                     Vijay Ekambaram, Arindam Jati, Pankaj Dayama etc 2024. [<a href="https://arxiv.org/pdf/2401.03955">paper</a>] [<a href="https://github.com/ibm-granite/granite-tsfm">code</a>]
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
+                                    3. AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
                                     Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]  
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
+                                    4. TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
                                     Shuo Sun, Molei Qin, wentao zhang, Haochong Xia, Chuqiao Zong etc 2023. [<a href="https://openreview.net/pdf?id=l7Ggnzaws5">paper</a>] [<a href="https://github.com/trademaster-ntu/trademaster">code</a>] 
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
+                                    5. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
                                     Jingyi Gu, Wenlu Du, A M Muntasir Rahman, Guiling Wang 2023.
                                     [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
                                 </p>
