@@ -231,16 +231,15 @@ You are responsible for the entire weekly reading/task working with your team me
                         </table>
                         <h1 id="discussion-questions">Discussion Questions</h1>
                         <h3 id="week2">Week 2: Introduction &amp;Motivation</h3>
+                        <p> Please read the Paper #1 about Chronos and replicate the code in your own development environment to answer the following questions:
                         <ol>
-                            <li>https://www.investopedia.com/simulator/ In the next quarter, We will this trading game simulator to practise your trading stragegy and check your portfolio performance. In this quarter, we will learn the basic technical components of making trading strategy and portfolio management in every week in programming.</li>
-                            <li>Time series prediction:</li>
-                            <li>Technical Indicator Exploration</li>
-                            <li>Sentiment Analysis</li>
-                            <li>Analyst Notes</li>
-                            <li>Portfolio management</li>
-                        </ol>
-                        <ol> Assignment: Read and replicate paper: Chronos: Learning the Language of Time Serie
-                             Questions: 
+                            <li>What is the primary goal of the Chronos model?</li>
+                            <li>How does Chronos compare to other existing time series forecasting models?</li>
+                            <li>What metrics were used to evaluate the forecasting performance of Chronos?</li>
+                            <li>How does the Chronos model handle seasonality and trends in time series data?</li>
+                            <li>What were the key findings from the Benchmark I and Benchmark II evaluations?</li>
+                            <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results.
+                            </li>
                         </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
