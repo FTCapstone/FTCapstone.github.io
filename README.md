@@ -182,7 +182,7 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>4</td>
                                     <td>10/21/2024</td>
                                     <td>
-                                        <a href="#week4">Time Series Prediction 1/2</a>
+                                        <a href="#week4">Technical Indicator Exploration</a>
                                     </td>
                                 </tr>
                                 <tr>
