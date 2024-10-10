@@ -233,12 +233,17 @@ You are responsible for the entire weekly reading/task working with your team me
                         <h3 id="week2">Week 2: Introduction &amp;Motivation</h3>
                         <p> Please read the Paper #1 about Chronos and replicate the code in your own development environment to answer the following questions:
                         <ol>
-                            <li>What is the primary goal of the Chronos model?</li>
-                            <li>How does Chronos compare to other existing time series forecasting models?</li>
-                            <li>What metrics were used to evaluate the forecasting performance of Chronos?</li>
+                            <li>What is the main objective of the Chronos framework in time series forecasting?</li>
+                            <li>Describe the key features of Chronos that differentiate it from existing time series forecasting models?</li>
+                            <li>Discuss the significance of the data preprocessing steps in Chronos.</li>
+                            
                             <li>How does the Chronos model handle seasonality and trends in time series data?</li>
+                            <li>What techniques does Chronos implement for hyperparameter tuning?</li>
+                            <li>What metrics were used to evaluate the forecasting performance of Chronos?</li>
                             <li>What were the key findings from the Benchmark I and Benchmark II evaluations?</li>
                             <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results.
+                            Rivian Automotive, Tesla, Nio Inc Adr, Xpeng A Adr, Evgo Inc, Li Auto Adr, Indie Semiconductor Inc Class A, Chargepoint Holdings Inc Class A, Lucid Group Inc, Luminar Technologies A.
+                            <li>Compare the forecasting accuracy of Chronos with at least two traditional methods using the above data.</li>
                             </li>
                         </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
