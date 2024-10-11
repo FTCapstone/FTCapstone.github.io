@@ -101,9 +101,9 @@
                         <p> As we embark on our Seeking Alpha virtual trading game project in the upcoming quarter, our focus will be on building a strong foundation in machine learning (ML) and artificial intelligence (AI) algorithms. This quarter will be dedicated to enhancing our understanding of these critical technologies, which play a pivotal role in modern trading decision-making. By exploring various ML and AI techniques, we aim to develop the analytical skills necessary to evaluate market trends, predict price movements, and optimize our trading strategies. This preparatory phase will empower us to make informed decisions and leverage data-driven insights as we transition into hands-on trading operations.
                         </p>
                         <p>We will have only discussions in a Q&amp;A form, instead of traditional lectures. The discussion questions are assignments for each week. </p>
-                        <h1 id="papers-to-read">Result replication (introduction to topic)</h1>
+                        <h1 id="papers-to-read">Paper Reading</h1>
                         <p>
-                            We will delve into this area via the above papers, and replicate results in preparation for trading competition game.
+                            We will delve into this area via the below papers, and replicate results in preparation for trading competition game.
                         </p>
                         
                         <ul>
