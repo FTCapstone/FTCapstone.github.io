@@ -242,7 +242,18 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li>What metrics were used to evaluate the forecasting performance of Chronos?</li>
                             <li>What were the key findings from the Benchmark I and Benchmark II evaluations?</li>
                             <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results.
-                            Rivian Automotive, Tesla, Nio Inc Adr, Xpeng A Adr, Evgo Inc, Li Auto Adr, Indie Semiconductor Inc Class A, Chargepoint Holdings Inc Class A, Lucid Group Inc, Luminar Technologies A.
+                                <ol>
+                                    <li>Rivian Automotive</li>
+                                    <li>Tesla</li>
+                                    <li>Nio Inc Adr</li>
+                                    <li>Xpeng A Adr</li>
+                                    <li>Evgo Inc</li>
+                                    <li>Li Auto Adr</li>
+                                    <li>Indie Semiconductor Inc Class A </li>
+                                    <li>Chargepoint Holdings Inc Class A</li>
+                                    <li>Lucid Group Inc</li>
+                                    <li>Luminar Technologies A</li>
+                                </ol>
                             <li>Compare the forecasting accuracy of Chronos with at least two traditional methods using the above data. For example, ARIMA, LSTM etc</li>
                             </li>
                         </ol>
