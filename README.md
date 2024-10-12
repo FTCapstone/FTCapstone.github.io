@@ -241,7 +241,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li>What techniques does Chronos implement for hyperparameter tuning?</li>
                             <li>What metrics were used to evaluate the forecasting performance of Chronos?</li>
                             <li>What were the key findings from the Benchmark I and Benchmark II evaluations?</li>
-                            <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results.
+                            <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results. Refer to <a href="https://algotrading101.com/learn/yahoo-finance-api-guide/"> Yahoo Finance API </a> to download real historicial data.
                                 <ol>
                                     <li>Rivian Automotive</li>
                                     <li>Tesla</li>
