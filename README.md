@@ -259,7 +259,30 @@ You are responsible for the entire weekly reading/task working with your team me
                         </ol>
                         <h3 id="week2">Week 3: Time Series Prediction 2/2</h3>
                         <p> Please read the Paper #2 about Tiny Time Mixers and replicate the code in your own development environment to answer the following questions:
-                        
+                        <ol>
+                            <li>What is the primary objective of the TTM model in time series forecasting?</li>
+                            <li>What specific advantages does the TTM model provide in head probing compared to traditional end-to-end training approaches?</li>
+                            <li>Can you explain the significance of the context length (FL) in TTM's training process?</li>
+                            <li>What are the advantages of using Adaptive Patching (AP) in TTM?</li>
+                            <li>How does Resolution Prefix Tuning (RPT) enhance the model’s performance?</li>
+                            <li>How does the TTM architecture handle diverse time series data compared to traditional models?</li>
+                            <li>What methodologies were used to gather and preprocess the datasets for TTM?</li>
+                            <li>Please using real daily stock prices (close price) data (download from Yahoo Finance) of the following EV sector tickers from 1/1/ 2024 to 8/31/2024, leveraging Chronos prediction to get prediction of daily price from 9/1/2024 to 9/30/2024. Output the performance metrics and explain your evaluation results. Refer to <a href="https://algotrading101.com/learn/yahoo-finance-api-guide/"> Yahoo Finance API </a> to download real historicial data.
+                            <ol>
+                                    <li>Rivian Automotive</li>
+                                    <li>Tesla</li>
+                                    <li>Nio Inc Adr</li>
+                                    <li>Xpeng A Adr</li>
+                                    <li>Evgo Inc</li>
+                                    <li>Li Auto Adr</li>
+                                    <li>Indie Semiconductor Inc Class A </li>
+                                    <li>Chargepoint Holdings Inc Class A</li>
+                                    <li>Lucid Group Inc</li>
+                                    <li>Luminar Technologies A</li>
+                                </ol>
+                            <li>Compare the forecasting accuracy of TTM with Chronos and at least two traditional methods using the above data. For example, ARIMA, LSTM etc</li>
+                            </li>
+                        </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
             </article>
