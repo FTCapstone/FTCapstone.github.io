@@ -126,28 +126,29 @@
                                 </p>
                                 <p>
                                        Utilize specific technical indicators to generate Buy and Sell Signals: https://tradewithpython.com/generating-buy-sell-signals-using-python
+                                       [<a href="https://tradewithpython.com/generating-buy-sell-signals-using-python">Utilize specific technical indicators to generate Buy and Sell Signals </a>]
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    4. How to pick stocks: [<a href="https://github.com/vsaveris/trading-technical-indicators](https://www.schwab.com/learn/story/how-to-pick-stocks-using-fundamental-and-technical-analysis?msockid=25789463d8236eee030d8088d96f6f3d"></a>]
+                                    4. [<a href="https://www.schwab.com/learn/story/how-to-pick-stocks-using-fundamental-and-technical-analysis?msockid=25789463d8236eee030d8088d96f6f3d">How to pick stocks: Fundamental analysis vs. Technical analysis </a>]
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    4. AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
+                                    5. AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
                                     Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]  
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    5. TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
+                                    6. TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
                                     Shuo Sun, Molei Qin, wentao zhang, Haochong Xia, Chuqiao Zong etc 2023. [<a href="https://openreview.net/pdf?id=l7Ggnzaws5">paper</a>] [<a href="https://github.com/trademaster-ntu/trademaster">code</a>] 
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    6. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
+                                    7. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
                                     Jingyi Gu, Wenlu Du, A M Muntasir Rahman, Guiling Wang 2023.
                                     [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
                                 </p>
