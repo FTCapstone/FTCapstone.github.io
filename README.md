@@ -122,16 +122,15 @@
                             </li>
                             <li>
                                 <p>
-                                    3. Technical indicators: https://github.com/vsaveris/trading-technical-indicators
+                                    3. <a href="https://github.com/vsaveris/trading-technical-indicators">Technical indicators </a>
                                 </p>
                                 <p>
-                                       Utilize specific technical indicators to generate Buy and Sell Signals: https://tradewithpython.com/generating-buy-sell-signals-using-python
-                                       [<a href="https://tradewithpython.com/generating-buy-sell-signals-using-python">Utilize specific technical indicators to generate Buy and Sell Signals </a>]
+                                       <a href="https://tradewithpython.com/generating-buy-sell-signals-using-python">Utilize specific technical indicators to generate Buy and Sell Signals </a>
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    4. [<a href="https://www.schwab.com/learn/story/how-to-pick-stocks-using-fundamental-and-technical-analysis?msockid=25789463d8236eee030d8088d96f6f3d">How to pick stocks: Fundamental analysis vs. Technical analysis </a>]
+                                    4. <a href="https://www.schwab.com/learn/story/how-to-pick-stocks-using-fundamental-and-technical-analysis?msockid=25789463d8236eee030d8088d96f6f3d">How to pick stocks: Fundamental analysis vs. Technical analysis </a>
                                 </p>
                             </li>
                             <li>
@@ -325,7 +324,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li> Parabolic SAR: How does the Parabolic SAR assist traders in identifying potential exit and entry points? </li>
                             <li> Typical Price: How is the Typical Price calculated, and how can it be useful in trading analysis? </li>
                             <li> Directional Movement Index: What are the components of the Directional Movement Index, and how are they interpreted? </li>
-                            <li> Utilize specified technical indicators to generate actionable insights for investment decisions, specifically identifying opportunities to buy, sell, or maintain a natural investment position. Students will analyze various indicators, such as the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Bollinger Bands, to assess market trends and momentum. By interpreting the signals provided by these indicators, participants will develop clear recommendations based on current market conditions. Please generate daily technical analysis dashboard like <a href='https://www.tradingview.com/symbols/NYSE-TTI/technicals/></a> from time period 10/1/2024 to 10/11/2024. The technical analysis dashboard will present daily investment decision for each selected indicators for the following tickers:
+                            <li> Utilize specified technical indicators to generate actionable insights for investment decisions, specifically identifying opportunities to buy, sell, or maintain a natural investment position. Students will analyze various indicators, such as the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Bollinger Bands, to assess market trends and momentum. By interpreting the signals provided by these indicators, participants will develop clear recommendations based on current market conditions. Please generate daily technical analysis dashboard like <a href='https://www.tradingview.com/symbols/NYSE-TTI/technicals/>example </a> for time period from 10/1/2024 to 10/11/2024. The technical analysis dashboard will present daily investment decision for each selected indicators for the following tickers:
                             <ol>
                                     <li>Rivian Automotive</li>
                                     <li>Tesla</li>
