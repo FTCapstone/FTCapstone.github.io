@@ -190,14 +190,14 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>4</td>
                                     <td>10/21/2024</td>
                                     <td>
-                                        <a href="#week4">Technical Indicator Exploration 1/2 </a>
+                                        <a href="#week4">Technical Indicator Analysis </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>10/28/2024</td>
                                     <td>
-                                        <a href="#week5">Technical Indicator Exploration 2/2 </a>
+                                        <a href="#week5">Fundamental Analysis </a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -292,8 +292,8 @@ You are responsible for the entire weekly reading/task working with your team me
                             </li>
                         </ol>
 
-                        <h3 id="week4">Week 4: Technical indicator 1/2</h3>
-                        <p> Technical indicators are mathematical calculations involving price, volume, open interest or other quantitative metrics used by traders to conduct technical analysis. For example, a moving average takes the closing price over the past X sessions and applies the average to each period plotted on the chart to create a new line. Traders can see how the current price compares to the average, as well as where the trend is headed on a chart with volatile price action.
+                        <h3 id="week4">Week 4: Technical indicator Analysis </h3>
+                        <p> Technical indicators are mathematical calculations involving price, volume, open interest or other quantitative metrics used by traders to conduct technical analysis.
                         Technical indicators can be further divided into two categories based on their purpose:</p>
 
                         <ol>
@@ -301,19 +301,41 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li> Lagging Indicators are designed to follow price movements to provide broader insights. For example, moving averages show where prices have been in the past. While they don’t necessarily predict the future, they can be used to generate buy and sell signals.</li>
                         </ol>
 
-                        <p> Traders may use many technical indicators when analyzing a security and/or combine them with other forms of technical analysis, such as candlesticks or chart patterns. The two most common uses of technical indicators are alerting you about possible reversals or confirming other forms of technical analysis that explicitly generate a buy or sell signal. Technical indicators may also form the basis for automated trading systems given their quantitative nature. For example, an automated trading system may generate a buy signal — or even execute a limit order — whenever the RSI crosses below 30.0 and the price rises above the 5-day moving average. </p>
+                        <p> Traders may use many technical indicators when analyzing a security and/or combine them with other forms of technical analysis, such as candlesticks or chart patterns. The two most common uses of technical indicators are alerting you about possible reversals or confirming other forms of technical analysis that explicitly generate a buy or sell signal. </p>
+                        <p> Technical indicators may also form the basis for automated trading systems given their quantitative nature. For example, an automated trading system may generate a buy signal — or even execute a limit order — whenever the RSI crosses below 30.0 and the price rises above the 5-day moving average. </p>
 
-                        <p> Please refer to Paper reading #3 and also other web information to answer the following questions:
+                        <p> Please refer to Paper reading #3 and also any other web information you may find to answer the following questions:
                         <ol>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
-                            <li> </li>
+                            <li> Exponential Moving Average: How does the Exponential Moving Average give more weight to recent prices compared to a simple moving average? </li>
+                            <li> Simple Moving Average: What are the strengths and weaknesses of using a Simple Moving Average in trading? </li>
+                            <li> Time-Series Moving Average: How does the Time-Series Moving Average differ from traditional moving averages in terms of trend analysis? </li>
+                            <li> Triangular Moving Average: What advantages does the Triangular Moving Average offer in smoothing price data? </li>
+                            <li> Mass Index: What does the Mass Index indicate about potential trend reversals, and how is it calculated? </li>
+                            <li> Relative Strength Index (RSI): How is the RSI used to identify overbought and oversold conditions in the market? </li>
+                            <li> Bollinger Bands: How do Bollinger Bands help traders identify potential market reversals? </li>
+                            <li> Momentum: What is the primary purpose of the Momentum indicator, and how is it calculated? </li>
+                            <li> Moving Average Convergence Divergence (MACD): What are the key components of the MACD, and how can traders interpret its signals? </li>
+                            <li> On Balance Volume: What role does On Balance Volume play in confirming price trends? </li>
+                            <li> Parabolic SAR: How does the Parabolic SAR assist traders in identifying potential exit and entry points? </li>
+                            <li> Typical Price: How is the Typical Price calculated, and how can it be useful in trading analysis? </li>
+                            <li> Directional Movement Index: What are the components of the Directional Movement Index, and how are they interpreted? </li>
+                            <li> Utilize specified technical indicators to generate actionable insights for investment decisions, specifically identifying opportunities to buy, sell, or maintain a natural investment position. Students will analyze various indicators, such as the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Bollinger Bands, to assess market trends and momentum. By interpreting the signals provided by these indicators, participants will develop clear recommendations based on current market conditions. Please generate daily technical analysis dashboard like <a href='https://www.tradingview.com/symbols/NYSE-TTI/technicals/></a> from time period 10/1/2024 to 10/11/2024. The technical analysis dashboard will present daily investment decision for each selected indicators for the following tickers:
+                            <ol>
+                                    <li>Rivian Automotive</li>
+                                    <li>Tesla</li>
+                                    <li>Nio Inc Adr</li>
+                                    <li>Xpeng A Adr</li>
+                                    <li>Evgo Inc</li>
+                                    <li>Li Auto Adr</li>
+                                    <li>Indie Semiconductor Inc Class A </li>
+                                    <li>Chargepoint Holdings Inc Class A</li>
+                                    <li>Lucid Group Inc</li>
+                                    <li>Luminar Technologies A</li>
+                            </ol> 
+                            </li>
                         </ol>
+                        <h3 id="week5">Week 5: Fundamental Analysis </h3>
+                            
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
             </article>
