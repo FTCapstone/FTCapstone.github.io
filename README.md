@@ -3,10 +3,10 @@
     <head>
         <meta charset="utf-8">
         <!-- begin SEO -->
-        <title>2021-Fall-DSC180A02-Capstone: Text Mining and NLP - Jingbo Shang</title>
+        <title>2024-Winter-DSC180B07-Seeking Alpha in the Sea of Data - FranklinTempleton </title>
         <meta property="og:locale" content="en-US">
         <meta property="og:site_name" content="Jingbo Shang">
-        <meta property="og:title" content="2021-Fall-DSC180A02-Capstone: Text Mining and NLP">
+        <meta property="og:title" content="2024-Winter-DSC180B07-Seeking Alpha in the Sea of Data - FranklinTempleton">
         <link rel="canonical" href="https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone">
         <meta property="og:url" content="https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone">
         <meta property="og:description" content="Class Time: Wednesdays, 1 to 1:50 PM Pacific Time. Room: https://ucsd.zoom.us/j/91491702947.">
@@ -126,6 +126,11 @@
                                 </p>
                                 <p>
                                        Utilize specific technical indicators to generate Buy and Sell Signals: https://tradewithpython.com/generating-buy-sell-signals-using-python
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    4. How to pick stocks: [<a href="https://github.com/vsaveris/trading-technical-indicators](https://www.schwab.com/learn/story/how-to-pick-stocks-using-fundamental-and-technical-analysis?msockid=25789463d8236eee030d8088d96f6f3d"></a>]
                                 </p>
                             </li>
                             <li>
