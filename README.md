@@ -190,14 +190,14 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>4</td>
                                     <td>10/21/2024</td>
                                     <td>
-                                        <a href="#week4">Technical Indicator Exploration</a>
+                                        <a href="#week4">Technical Indicator Exploration 1/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>10/28/2024</td>
                                     <td>
-                                        <a href="#week5">Technical Indicator Exploration </a>
+                                        <a href="#week5">Technical Indicator Exploration 2/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -211,14 +211,14 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>7</td>
                                     <td>11/11/2024</td>
                                     <td>
-                                        <a href="#week7">Analyst Notes</a>
+                                        <a href="#week7">News 1/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>11/18/2024</td>
                                     <td>
-                                        <a href="#week8">Analyst Notes</a>
+                                        <a href="#week8">News 2/2 </a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -265,7 +265,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li>Compare the forecasting accuracy of Chronos with at least two traditional methods using the above data. For example, ARIMA, LSTM etc</li>
                             </li>
                         </ol>
-                        <h3 id="week2">Week 3: Time Series Prediction 2/2</h3>
+                        <h3 id="week3">Week 3: Time Series Prediction 2/2</h3>
                         <p> Please read the Paper #2 about Tiny Time Mixers and replicate the code in your own development environment to answer the following questions:
                         <ol>
                             <li>What is the primary objective of the TTM model in time series forecasting?</li>
@@ -290,6 +290,29 @@ You are responsible for the entire weekly reading/task working with your team me
                                 </ol>
                             <li>Compare the forecasting accuracy of TTM with Chronos and at least two traditional methods using the above data. For example, ARIMA, LSTM etc</li>
                             </li>
+                        </ol>
+
+                        <h3 id="week4">Week 4: Technical indicator 1/2</h3>
+                        <p> Technical indicators are mathematical calculations involving price, volume, open interest or other quantitative metrics used by traders to conduct technical analysis. For example, a moving average takes the closing price over the past X sessions and applies the average to each period plotted on the chart to create a new line. Traders can see how the current price compares to the average, as well as where the trend is headed on a chart with volatile price action.
+                        Technical indicators can be further divided into two categories based on their purpose:</p>
+
+                        <ol>
+                            <li> Leading Indicators are designed to forecast where prices may be heading and are commonly used to generate buy and sell signals. For example, when the relative strength index (RSI) reaches an overbought level, the indicator suggests that traders should sell or go short a stock.</li>
+                            <li> Lagging Indicators are designed to follow price movements to provide broader insights. For example, moving averages show where prices have been in the past. While they don’t necessarily predict the future, they can be used to generate buy and sell signals.</li>
+                        </ol>
+
+                        <p> Traders may use many technical indicators when analyzing a security and/or combine them with other forms of technical analysis, such as candlesticks or chart patterns. The two most common uses of technical indicators are alerting you about possible reversals or confirming other forms of technical analysis that explicitly generate a buy or sell signal. Technical indicators may also form the basis for automated trading systems given their quantitative nature. For example, an automated trading system may generate a buy signal — or even execute a limit order — whenever the RSI crosses below 30.0 and the price rises above the 5-day moving average. </p>
+
+                        <p> Please refer to Paper reading #3 and also other web information to answer the following questions:
+                        <ol>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
+                            <li> </li>
                         </ol>
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
