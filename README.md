@@ -339,7 +339,46 @@ You are responsible for the entire weekly reading/task working with your team me
                             </ol> 
                             </li>
                         </ol>
-                        <h3 id="week5">Week 5: Fundamental Analysis </h3>
+                        <h3 id="week5">Week 5: Fundamental Analysis and Ticker Selection</h3>
+                        <p> Please refer to Paper reading #4 and also any other web information to answer the following questions: </p>
+                        <ol>
+                            <li> How is EPS calculated, and what are the differences between basic EPS and diluted EPS? Why is EPS growth important for assessing a company's performance? How important is historical EPS growth for growth investors, and what growth rates do they typically look for? </li>
+                            <li> How do you interpret a high P/E ratio versus a low P/E ratio?
+What factors can cause a company's P/E ratio to vary significantly from its industry average?
+Why do value investors often seek stocks with low P/E ratios relative to their peers? </li>
+                            <li> How do you calculate the P/E Growth (PEG ratio), and why is it considered a more comprehensive measure than the P/E ratio alone? </li>
+                            <li> How is dividend yield calculated, and what does it indicate about a company's financial health and investment potential? </li>
+                            <li> How should investors balance dividend yield with capital appreciation when evaluating potential investments? What are the risks associated with investing in high-dividend yield stocks? </li>
+                            <li> How can changes in market sentiment influence P/E ratios, and what implications does this have for investors analyzing growth versus value stocks? </li>
+                            <li> How is the P/B ratio calculated, and what does it indicate about a stock? How can the P/B ratio be used to identify undervalued stocks? </li>
+                            <li> How do you calculate ROE, and what does it signify about a company's profitability? How does a company's capital structure affect its ROE? </li>
+                            <li> How is free cash flow calculated, and why is it important for investors? What are the implications of negative free cash flow for a company? </li>
+                            <li> How do you calculate ROI, and what does it measure? What are the key limitations of using ROI as a performance metric? </li>
+                            <li> How is operating margin calculated, and what does it reveal about a company's efficiency?
+What factors can cause fluctuations in a company's operating margin?
+How does operating margin compare to net profit margin in assessing profitability? </li>
+                            <li> How is EBIT calculated, and why is it significant for evaluating operating performance?
+What are the key differences between EBIT and EBITDA?
+How can EBIT be used in valuation models such as discounted cash flow (DCF)? </li>
+                            <li> How is capital expenditure defined, and why is it important for growth-oriented companies?
+How can high CapEx impact a company’s cash flow and profitability in the short term? </li>
+                            <li> What fundamental metrics do value investors focus on when identifying undervalued stocks? What metrics are most commonly used by growth investors to identify potential stocks? </li>
+                            <li> Please compare the above fundamental metrics for the following EV industry tickers and explain your investment opinion from growth investor viewpoint and value investor viewpoint separately.
+                            <ol>
+                                    <li>Rivian Automotive</li>
+                                    <li>Tesla</li>
+                                    <li>Nio Inc Adr</li>
+                                    <li>Xpeng A Adr</li>
+                                    <li>Evgo Inc</li>
+                                    <li>Li Auto Adr</li>
+                                    <li>Indie Semiconductor Inc Class A </li>
+                                    <li>Chargepoint Holdings Inc Class A</li>
+                                    <li>Lucid Group Inc</li>
+                                    <li>Luminar Technologies A</li>
+                            </ol>
+                            </li> Let's do ticker selection exercise. Firstly, try to obtain a complete list of ticker symbols (as many as you can) and their historical price data from Yahoo Finance (refer to link <a href="https://stackoverflow.com/questions/5246843/how-to-get-a-complete-list-of-ticker-symbols-from-yahoo-finance"). Secondly, from this list of tickers, use their fundamental metrics and apply your rules/filters to conduct scenario analyses (i.e., adjust filters to see how the stock list changes, compare against industry averages, etc.) in order to select the top 100 tickers. Thirdly, for these selected 100 tickers, please apply the technical analysis using technical indicatores to simulate daily trading from 10/1/2024 to 10/25/2024 and see what's your investment performance. (Plus alpha, also have a baseline to compare performance of your strateg A with strateg B)
+                            </li>
+                        </ol>
                             
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
