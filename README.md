@@ -135,19 +135,24 @@
                             </li>
                             <li>
                                 <p>
-                                    5. AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
+                                    5. <a href="https://www.investopedia.com/terms/s/sentimentindicator.asp">Market Sentiment Indicator: How It's Used in Analysis and Types </a>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    6. AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks <br/>
                                     Tiago Monteiro 2024. [<a href="https://arxiv.org/pdf/2407.19858v5">paper</a>] [<a href="https://github.com/tiagomonteiro0715/AI-Powered-Energy-Algorithmic-Trading-Integrating-Hidden-Markov-Models-with-Neural-Networks">code</a>]  
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    6. TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
+                                    7. TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning <br/>
                                     Shuo Sun, Molei Qin, wentao zhang, Haochong Xia, Chuqiao Zong etc 2023. [<a href="https://openreview.net/pdf?id=l7Ggnzaws5">paper</a>] [<a href="https://github.com/trademaster-ntu/trademaster">code</a>] 
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    7. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
+                                    8. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
                                     Jingyi Gu, Wenlu Du, A M Muntasir Rahman, Guiling Wang 2023.
                                     [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
                                 </p>
@@ -379,6 +384,22 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             </li> 
                             <li> Let's do ticker selection exercise. Firstly, try to obtain a complete list of ticker symbols (as many as you can) and their historical price data from Yahoo Finance (refer to<a href="https://stackoverflow.com/questions/5246843/how-to-get-a-complete-list-of-ticker-symbols-from-yahoo-finance"> this link </a>). Secondly, from this list of tickers, use their fundamental metrics and apply your rules/filters to conduct scenario analyses (i.e., adjust filters to see how the stock list changes, compare against industry averages, etc.) in order to select the top 100 tickers. Thirdly, for these selected 100 tickers, please apply the technical analysis using technical indicatores to simulate daily trading from 10/1/2024 to 10/25/2024 and see what's your investment performance. (Plus alpha, also have a baseline to compare performance of your strateg A with strateg B)
                             </li>
+                        </ol>
+
+                        <h3 id="week6">Week 6: Market Sentiment Indicator</h3>
+                        <p> Please refer to Paper reading #5 and also any other web information to answer the following questions: </p>
+                        <ol>
+                            <li> What is market sentiment analysis, and how does it differ from fundamental and technical analysis? </li>
+                            <li> How can investor sentiment influence asset prices in financial markets? </li>
+                            <li> What are the primary sources of market sentiment data, and how can they be collected? </li>
+                            <li> What natural language processing (NLP) techniques are commonly used in sentiment analysis? </li>
+                            <li> How can sentiment indicators, such as the Fear & Greed Index, be interpreted in trading strategies? </li>
+                            <li> How can time series analysis be applied to sentiment data to forecast market movements? </li>
+                            <li> What is the significance of sentiment data frequency (e.g., daily vs. hourly) in trading decisions? </li>
+                            <li> ow can sentiment analysis help in identifying potential market reversals? </li>
+                            <li> How can sentiment analysis be combined with technical indicators for improved trading signals? </li>
+                            
+                            
                         </ol>
                             
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
