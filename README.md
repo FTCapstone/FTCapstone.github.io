@@ -409,11 +409,11 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> What is the common strucutre of an earnings call? In particular, how do the questions from analysts during an earnings call differ from those in a typical business interview, and why might these differences matter? </li>
                             <li> How can the tone and language used by the CEO and other executives during an earnings call affect investor perception and market response? </li>
                             <li> What are common languages and tones that might indicate a CEO is being evasive during an earnings call? </li>
-                            <li> Read NVDA FY 2025 Q4 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
-                            <li> Read SMCI FY 2024 Q1 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
-                            <li> Read SBUX FY 2024 Q3 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
-                            <li> Based on the findings in Paper #8, please write prompt(s) and use an LLM at your choice to analyze the above three earning call transcripts. </li>
-                            <li> Using the outcome above, please compare the stock price movements in the following quarter. Based on your findings, how would you incorporate the evasive information into your investment strategy? </li>
+                            <li> Read NVDA FY 2025 Q4 Earnings Call transcript. Is there any part you consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Read SMCI FY 2024 Q1 Earnings Call transcript. Is there any part you consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Read SBUX FY 2024 Q2 Earnings Call transcript. Is there any part you consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Based on the findings in Paper #8, please write prompt(s) use an LLM at your choice to analyze the above three earning call transcripts. </li>
+                            <li> Using the outcome above, please compare the stock price movements in the following quarter. Based on your findings, will you incorporate the evasive information into your investment strategy? Please explain. </li>
                             
                             
                         </ol>
@@ -449,7 +449,7 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                 </div>
                 
             </footer>
-        </div>
+        </div
         <script src="https://shangjingbo1226.github.io/assets/js/main.min.js"></script>
         <script>
             (function(i, s, o, g, r, a, m) {
