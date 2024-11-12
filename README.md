@@ -425,10 +425,10 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> Looking into Warrent Buffet's investment track record, do you think the EMH holds?  Please explain in details. </li>
                             <li> Please explain Mean Variance portfolilo optimization with less than 5 sentences.  What is its major short coming in practice? </li>
                             <li> Please explain Black-Litterman allocation with no more than 5 sentences.  What is its most important inputs other than estimated return and volatility?</li>
-                            <li> Explain what is Value-at-Risk (VaR) and conditional Value-at-Risk (CVaR) separately. Under what condition(s) will them be equal?  </li>
-                            <li> For each of the companies in Question 15 of Week 5, please collect its past three year stock price.  Assuming their returns are goevrn by the log-Normal distribution, use maximum likelihood method to come up with their expected return and co-variance matrix.  Compare your results with those you obtained from the time series prediction models in Week 3. </li>
-                            <li> Based on the estimated expected return and co-variance matrix, draw the efficient frontior with mean variance optimization and CVaR optimization separately. </li>
-                            <li> Using the evasive detection technique learned last week, come up with your own prior.  Apply the Black-Litterman allocation technique and come up with an efficient frontier. Discuss the difference between this EF and the two you obatin from above. </li>
+                            <li> Explain what is Value-at-Risk (VaR) and conditional Value-at-Risk (CVaR) separately. Under what condition(s) will they be equal?  </li>
+                            <li> For each of the companies in Question 8 of Week 3, please collect its past three year stock price.  Assuming their returns are goevrn by the log-Normal distribution, use maximum likelihood method to estimate their expected return and co-variance matrix.  Compare your results with those you obtained from the time series prediction models developed in Week 3. </li>
+                            <li> Based on the estimated expected return and co-variance matrix, draw the efficient frontiors with mean variance optimization and CVaR optimization separately. </li>
+                            <li> Using the evasive detection technique learned in Week 7, come up with your own prior.  Apply the Black-Litterman allocation technique and draw the efficient frontier. Discuss the difference between this EF and the two obatined from above. </li>
                             
                             
                         </ol>
