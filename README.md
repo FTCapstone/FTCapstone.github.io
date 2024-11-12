@@ -396,7 +396,7 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> How can sentiment indicators, such as the Fear & Greed Index, be interpreted in trading strategies? </li>
                             <li> How can time series analysis be applied to sentiment data to forecast market movements? </li>
                             <li> What is the significance of sentiment data frequency (e.g., daily vs. hourly) in trading decisions? </li>
-                            <li> ow can sentiment analysis help in identifying potential market reversals? </li>
+                            <li> How can sentiment analysis help in identifying potential market reversals? </li>
                             <li> How can sentiment analysis be combined with technical indicators for improved trading signals? </li>
                             
                             
