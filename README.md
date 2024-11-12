@@ -417,6 +417,21 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             
                             
                         </ol>
+
+                        <h3 id="week8">Week 8: Evasive Detection</h3>
+                        <p> Let's practice some basic portfolio optimization! Here are the exerices for Week 8: </p>
+                        <ol>
+                            <li> Please describe Efficient Market Hypothesis (EMH) with no more than 5 sentences. </li>
+                            <li> Looking into Warrent Buffet's investment track record, do you think the EMH holds?  Please explain in details. </li>
+                            <li> Please explain Mean Variance portfolilo optimization with less than 5 sentences.  What is its major short coming in practice? </li>
+                            <li> Please explain Black-Litterman allocation with no more than 5 sentences.  What is its most important inputs other than estimated return and volatility?</li>
+                            <li> Explain what is Value-at-Risk (VaR) and conditional Value-at-Risk (CVaR) separately. Under what condition(s) will them be equal?  </li>
+                            <li> For each of the companies in Question 15 of Week 5, please collect its past three year stock price.  Assuming their returns are goevrn by the log-Normal distribution, use maximum likelihood method to come up with their expected return and co-variance matrix.  Compare your results with those you obtained from the time series prediction models in Week 3. </li>
+                            <li> Based on the estimated expected return and co-variance matrix, draw the efficient frontior with mean variance optimization and CVaR optimization separately. </li>
+                            <li> Using the evasive detection technique learned last week, come up with your own prior.  Apply the Black-Litterman allocation technique and come up with an efficient frontier. Discuss the difference between this EF and the two you obatin from above. </li>
+                            
+                            
+                        </ol>
                             
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
