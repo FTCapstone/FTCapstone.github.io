@@ -401,6 +401,22 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             
                             
                         </ol>
+
+                        <h3 id="week7">Week 7: Evasive Detection</h3>
+                        <p> Please refer to Paper reading #8 and also any other web information to answer the following questions: </p>
+                        <ol>
+                            <li> What are the primary objectives of an earnings call, and why are they important for both the company and its investors? </li>
+                            <li> What is the common strucutre of an earnings call? In particular, how do the questions from analysts during an earnings call differ from those in a typical business interview, and why might these differences matter? </li>
+                            <li> How can the tone and language used by the CEO and other executives during an earnings call affect investor perception and market response? </li>
+                            <li> What are common languages and tones that might indicate a CEO is being evasive during an earnings call? </li>
+                            <li> Read NVDA FY 2025 Q4 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Read SMCI FY 2024 Q1 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Read SBUX FY 2024 Q3 Earnings Call transcript. Is there any part you may consider the executives may obfuscate the information?  Please explain why. </li>
+                            <li> Based on the findings in Paper #8, please write prompt(s) and use an LLM at your choice to analyze the above three earning call transcripts. </li>
+                            <li> Using the outcome above, please compare the stock price movements in the following quarter. Based on your findings, how would you incorporate the evasive information into your investment strategy? </li>
+                            
+                            
+                        </ol>
                             
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
                 </div>
