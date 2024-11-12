@@ -235,14 +235,14 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>9</td>
                                     <td>11/25/2024</td>
                                     <td>
-                                        <a href="#week9"> Portfolio management 1/2 </a>
+                                        <a href="#week9"> Portfolio management </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
                                     <td>12/02/2024</td>
                                     <td>
-                                        <a href="#week10">Portfolio management 2/2</a>
+                                        <a href="#week10">Ramp Up</a>
                                     </td>
                                 </tr>
                             </tbody>
