@@ -152,9 +152,9 @@
                             </li>
                             <li>
                                 <p>
-                                    8. Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints <br/>
-                                    Jingyi Gu, Wenlu Du, A M Muntasir Rahman, Guiling Wang 2023.
-                                    [<a href="https://dl.acm.org/doi/pdf/10.1145/3604237.3626906">paper</a>] [<a href="https://github.com/JingyiGu/Margin-Trader">code</a>]
+                                    8. Larcker, D. F., & Zakolyukina, A. A. (2012). Detecting deceptive discussions in conference calls.  <br/>
+                                    Journal of Accounting Research, 50(2), 495-540.
+                                    [<a href="file:///C:/Users/hwang/Downloads/ssrn-1572705.pdf">paper</a>]
                                 </p>
                             </li>
                             
