@@ -221,21 +221,21 @@ You are responsible for the entire weekly reading/task working with your team me
                                     <td>7</td>
                                     <td>11/11/2024</td>
                                     <td>
-                                        <a href="#week7">News 1/2 </a>
+                                        <a href="#week7">Evasive Detection </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>11/18/2024</td>
                                     <td>
-                                        <a href="#week8">News 2/2 </a>
+                                        <a href="#week8">Portfolio Optimization </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
                                     <td>11/25/2024</td>
                                     <td>
-                                        <a href="#week9"> Portfolio management </a>
+                                        <a href="#week9"> Project Discussion </a>
                                     </td>
                                 </tr>
                                 <tr>
