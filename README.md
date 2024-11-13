@@ -403,7 +403,7 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                         </ol>
 
                         <h3 id="week7">Week 7: Evasive Detection</h3>
-                        <p> Please refer to Paper reading #8 and also any other web information to answer the following questions: </p>
+                        <p> Please read Paper #8 and also apply any other web information to answer the following questions: </p>
                         <ol>
                             <li> What are the primary objectives of an earnings call, and why are they important for both the company and its investors? </li>
                             <li> What is the common strucutre of an earnings call? In particular, how do the questions from analysts during an earnings call differ from those in a typical business interview, and why might these differences matter? </li>
