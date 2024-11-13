@@ -219,7 +219,7 @@ You are responsible for the entire weekly reading/task working with your team me
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td>11/11/2024</td>
+                                    <td>11/12/2024</td>
                                     <td>
                                         <a href="#week7">Evasive Detection </a>
                                     </td>
