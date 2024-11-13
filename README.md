@@ -248,6 +248,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             </tbody>
                         </table>
                         <h1 id="discussion-questions">Discussion Questions</h1>
+                        
                         <h3 id="week2">Week 2: Time Series Prediction 1/2</h3>
                         <p> Please read the Paper #1 about Chronos and replicate the code in your own development environment to answer the following questions:
                         <ol>
@@ -275,6 +276,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             <li>Compare the forecasting accuracy of Chronos with at least two traditional methods using the above data. For example, ARIMA, LSTM etc</li>
                             </li>
                         </ol>
+                        
                         <h3 id="week3">Week 3: Time Series Prediction 2/2</h3>
                         <p> Please read the Paper #2 about Tiny Time Mixers and replicate the code in your own development environment to answer the following questions:
                         <ol>
@@ -305,15 +307,12 @@ You are responsible for the entire weekly reading/task working with your team me
                         <h3 id="week4">Week 4: Technical indicator Analysis </h3>
                         <p> Technical indicators are mathematical calculations involving price, volume, open interest or other quantitative metrics used by traders to conduct technical analysis.
                         Technical indicators can be further divided into two categories based on their purpose:</p>
-
                         <ol>
                             <li> Leading Indicators are designed to forecast where prices may be heading and are commonly used to generate buy and sell signals. For example, when the relative strength index (RSI) reaches an overbought level, the indicator suggests that traders should sell or go short a stock.</li>
                             <li> Lagging Indicators are designed to follow price movements to provide broader insights. For example, moving averages show where prices have been in the past. While they don’t necessarily predict the future, they can be used to generate buy and sell signals.</li>
                         </ol>
-
                         <p> Traders may use many technical indicators when analyzing a security and/or combine them with other forms of technical analysis, such as candlesticks or chart patterns. The two most common uses of technical indicators are alerting you about possible reversals or confirming other forms of technical analysis that explicitly generate a buy or sell signal. </p>
                         <p> Technical indicators may also form the basis for automated trading systems given their quantitative nature. For example, an automated trading system may generate a buy signal — or even execute a limit order — whenever the RSI crosses below 30.0 and the price rises above the 5-day moving average. </p>
-
                         <p> Please refer to Paper reading #3 and also any other web information you may find to answer the following questions:
                         <ol>
                             <li> Exponential Moving Average: How does the Exponential Moving Average give more weight to recent prices compared to a simple moving average? </li>
@@ -344,6 +343,7 @@ You are responsible for the entire weekly reading/task working with your team me
                             </ol> 
                             </li>
                         </ol>
+                        
                         <h3 id="week5">Week 5: Fundamental Analysis and Ticker Selection</h3>
                         <p> Please refer to Paper reading #4 and also any other web information to answer the following questions: </p>
                         <ol>
@@ -398,8 +398,6 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> What is the significance of sentiment data frequency (e.g., daily vs. hourly) in trading decisions? </li>
                             <li> How can sentiment analysis help in identifying potential market reversals? </li>
                             <li> How can sentiment analysis be combined with technical indicators for improved trading signals? </li>
-                            
-                            
                         </ol>
 
                         <h3 id="week7">Week 7: Evasive Detection</h3>
@@ -413,12 +411,10 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> Read SMCI FY 2024 Q1 Earnings Call transcript. Is there any part you consider the executives may obfuscate the information?  Please explain why. </li>
                             <li> Read SBUX FY 2024 Q2 Earnings Call transcript. Is there any part you consider the executives may obfuscate the information?  Please explain why. </li>
                             <li> Based on the findings in Paper #8, please write prompt(s) use an LLM at your choice to analyze the above three earning call transcripts. </li>
-                            <li> Using the outcome above, please compare the stock price movements in the following quarter. Based on your findings, will you incorporate the evasive information into your investment strategy? Please explain. </li>
-                            
-                            
+                            <li> Using the outcome above, please compare the stock price movements in the following quarter. Based on your findings, will you incorporate the evasive information into your investment strategy? Please explain. </li>                         
                         </ol>
 
-                        <h3 id="week8">Week 8: Evasive Detection</h3>
+                        <h3 id="week8">Week 8: Portfolio Optimization</h3>
                         <p> Let's practice some basic portfolio optimization! Here are the exerices for Week 8: </p>
                         <ol>
                             <li> Please describe Efficient Market Hypothesis (EMH) with no more than 5 sentences. </li>
@@ -428,9 +424,7 @@ How can high CapEx impact a company’s cash flow and profitability in the short
                             <li> Explain what is Value-at-Risk (VaR) and conditional Value-at-Risk (CVaR) separately. Under what condition(s) will they be equal?  </li>
                             <li> For each of the companies in Question 8 of Week 3, please collect its past three year stock price.  Assuming their returns are goevrn by the log-Normal distribution, use maximum likelihood method to estimate their expected return and co-variance matrix.  Compare your results with those you obtained from the time series prediction models developed in Week 3. </li>
                             <li> Based on the estimated expected return and co-variance matrix, draw the efficient frontiors with mean variance optimization and CVaR optimization separately. </li>
-                            <li> Using the evasive detection technique learned in Week 7, come up with your own prior.  Apply the Black-Litterman allocation technique and draw the efficient frontier. Discuss the difference between this EF and the two obatined from above. </li>
-                            
-                            
+                            <li> Using the evasive detection technique learned in Week 7, come up with your own prior.  Apply the Black-Litterman allocation technique and draw the efficient frontier. Discuss the difference between this EF and the two obatined from above. </li>      
                         </ol>
                             
                     <!--<nav class="pagination"> <a href="https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML" class="pagination--pager" title="2021-Spring-CSE151A-Introduction to Machine Learning ">Previous</a> <a href="https://shangjingbo1226.github.io/teaching/2022-winter-MGTA415-Unstructured-Data" class="pagination--pager" title="2022-Winter-MGTA415-Analyzing Unstructured Data ">Next</a></nav>-->
